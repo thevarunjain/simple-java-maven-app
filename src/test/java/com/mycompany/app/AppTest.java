@@ -29,8 +29,9 @@ public class AppTest
         }
     }
 
-
-
+    /**
+     * Test case for application
+     */
     @Test
     public void testAppMain2()
     {
