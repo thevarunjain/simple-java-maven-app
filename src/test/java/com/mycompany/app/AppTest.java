@@ -30,7 +30,7 @@ public class AppTest
     }
 
     /**
-     * Test case for application
+     * Test case
      */
     @Test
     public void testAppMain2()
